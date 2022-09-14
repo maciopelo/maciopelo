@@ -62,13 +62,16 @@ I passionate about coding, creating web apps and sovling math and other problems
 ![React](https://img.icons8.com/ultraviolet/48/000000/react.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![Cypress](https://icons-for-free.com/iconfiles/png/48/cypress-1324440144114984250.png)
+![Jest](https://icons-for-free.com/iconfiles/png/48/vscode+icons+type+jest-1324451331240398710.png)
 ![MUI](https://img.icons8.com/color/48/000000/material-ui.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
+<br/>
 ![Postgresql](https://img.icons8.com/color/48/000000/postgreesql.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![SASS](https://img.icons8.com/color/48/000000/sass.png)
 ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 
