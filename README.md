@@ -15,7 +15,7 @@ I passionate about coding, creating web apps and sovling math and other problems
                 Bachelor of Computer Science (2018 - 2022) - <a href="https://www.agh.edu.pl/">AGH UST Cracow</a>
             </li>
             <li>
-                Master of Computer Science (2022 - present) - <a href="https://us.edu.pl">UŚ Katowice</a>
+                Master of Computer Science (2022 - 2024) - <a href="https://us.edu.pl">UŚ Katowice</a>
             </li>
         </ul>
     </li>
