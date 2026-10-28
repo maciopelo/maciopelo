@@ -45,7 +45,7 @@ I passionate about coding, creating web apps and sovling math and other problems
             <a href="https://www.linkedin.com/in/maciej-koch/">LinkedIn</a>
             </li>
             <li>
-            <a href="https://twitter.com/maciopelo">Twitter</a>
+            <a href="https://x.com/maciopelo_">Twitter</a>
             </li>
             </li>
             <li>
